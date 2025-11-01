@@ -1,7 +1,7 @@
 # [Collaborative Frequency-Aware Transformer for Unsupervised Multimodal Change Detection in Heterogeneous Remote Sensing Images](https://github.com/pu7yan9/CFAT_MCD)
 
 <p align="center">
-  <img src="AFENet.png" width="100%">
+  <img src="CFAT-MCD.png" width="100%">
 </p>
 
 This is a PyTorch/GPU implementation of the paper [Collaborative Frequency-Aware Transformer for Unsupervised Multimodal Change Detection in Heterogeneous Remote Sensing Images](https://ieeexplore.ieee.org/document/11145887):
