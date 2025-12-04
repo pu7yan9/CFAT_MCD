@@ -29,11 +29,11 @@ This is a PyTorch/GPU implementation of the paper [Collaborative Frequency-Aware
 
 | Multimodal Dataset   | Download Link                                                                                         |
 |----------------------|-------------------------------------------------------------------------------------------------------|
-| Sardinia, Italy             | [Download]()     |
-| Yellow River, China         | [Download]()     |
-| Shuguang, China             | [Download]()     |
-| Gloucester, UK              | [Download]()     |
-| Toulouse, France            | [Download]()     |
+| Sardinia, Italy             | [Download](https://drive.google.com/file/d/1O4lxuFwwoVLYtaY51ZDTqQVes3enOz4c/view?usp=drive_link)     |
+| Yellow River, China         | [Download](https://drive.google.com/file/d/1pizeWMB49TUSgYKhVQlfAZKkLLuQ_k_9/view?usp=drive_link)     |
+| Shuguang, China             | [Download](https://drive.google.com/file/d/1gSPuQ4uPRKjM-Fk7DDNIcK2j6J0hwrS_/view?usp=drive_link)     |
+| Gloucester2, UK              | [Download](https://drive.google.com/file/d/1k20_r5yZvKd6dN8S3ckvabuvPQssHbO1/view?usp=drive_link)     |
+| Toulouse, France            | [Download](https://drive.google.com/file/d/1Co0mDUHMOp5dAoWHvo7wnEMv6VBUSHhi/view?usp=drive_link)     |
 
 
 ## Usage
